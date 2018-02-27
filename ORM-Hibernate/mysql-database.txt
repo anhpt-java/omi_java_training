@@ -1,0 +1,3 @@
+118.70.183.57:23306
+username/pass:root/r00t
+database: ominext
